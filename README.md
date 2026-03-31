@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Shivansh Tembhare,currently a fresher in VIT Bhopal in the CSE CORE Branch,I hope to learn a coding language and some DSA in my first year
 <!--
 **shivanshtembhare-blip/shivanshtembhare-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
